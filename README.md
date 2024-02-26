@@ -45,3 +45,6 @@ Das Ziel dieses Projekts ist die Entwicklung eines einfachen Passwort-Managers, 
 | 1.8    | Eingabe der ID des zu löschenden Passworts   | [ID]                     | Bestätigung, dass das Passwort gelöscht wurde; Frage, ob ein weiteres Passwort gelöscht werden soll: "Do you want to delete another password? (y/n): " |
 | 1.9    | Entscheidung gegen weiteres Löschen          | "n"                      | Rückkehr zum Hauptmenü                                            |
 | 1.10   | Im Hauptmenü                                 | "3"                      | Programm wird geschlossen; keine weiteren Aktionen erforderlich                              |
+
+### 1.4 Diagramme
+![Hauptprogramm 1](https://github.com/denisjashari54/LA1303/assets/112430127/82f61273-bd01-439a-9718-be3ffa20d551)
