@@ -7,11 +7,11 @@ Angel Angelov, Erik Marku, Denis Jashari
 
 | Datum      | Version | Zusammenfassung                                                                       |
 |------------|---------|---------------------------------------------------------------------------------------|
-| [Datum 1]  | 0.0.1   | Projektinitiierung und erste Diskussion über Verschlüsselungsmethoden                 |
-| [Datum 2]  | 0.0.2   | Beginn der Programmierung mit Grundfunktionalitäten                                   |
-| [Datum 3]  | 0.0.3   | Implementierung der Datenbank zur Speicherung der Passwörter                          |
-| [Datum 4]  | 0.0.4   | Implementierung von Verschlüsselungsfunktionen für die sichere Speicherung von Daten  |
-| [Datum 5]  | 0.0.5   | Endgültige Tests und Fertigstellung der Dokumentation                                 |
+| 12.01.2024 | 0.0.1   | Projektinitiierung und erste Diskussion über Verschlüsselungsmethoden                 |
+| 19.01.2024  | 0.0.2   | Beginn der Programmierung mit Grundfunktionalitäten                                   |
+| 26.01.2024  | 0.0.3   | Implementierung der Datenbank zur Speicherung der Passwörter                          |
+| 02.02.2024  | 0.0.4   | Implementierung von Verschlüsselungsfunktionen für die sichere Speicherung von Daten  |
+| 23.02.2024  | 0.0.5   | Endgültige Tests und Fertigstellung der Dokumentation                                 |
 
 ## 1. Informieren
 
@@ -53,15 +53,15 @@ Das Ziel dieses Projekts ist die Entwicklung eines einfachen Passwort-Managers, 
 
 | AP-Nr. | Frist      | Zuständig   | Beschreibung                                                    | Geplante Zeit |
 |--------|------------|-------------|-----------------------------------------------------------------|---------------|
-| 1.A    | [Datum 1]  | Alle        | Informationssammlung und -austausch über Projektziele.          | 4 Std         |
-| 2.A    | [Datum 2]  | Bajramovic     | Entwicklung der Menü-Logik für die Benutzerführung.             | 2 Std         |
-| 3.A    | [Datum 3]  | Marku  | Implementierung der Funktion zum Hinzufügen von Passwörtern.     | 2 Std         |
-| 4.A    | [Datum 4]  | Jashari | Implementierung der Anzeige für die Passwort Liste.       | 2 Std         |
-| 5.A    | [Datum 5]  | Angelov     | Programmierung der Datenbankintegration zum Speichern von Passwörtern. | 2 Std         |
-| 6.A    | [Datum 6]  | Marku  | Implementierung der Verschlüsselungsfunktionen für mehr Sicherheit. | 2 Std         |
-| 7.A    | [Datum 7]  | Angelov      | Entwickeln der Logik für das Löschen von Einträgen.             | 2 Std         |
-| 8.A    | [Datum 8]  | Jashari     | Implementierung von Fehlerbehandlungsmechanismen.               | 2 Std         |
-| 9.A    | [Datum 9]  | Bajramovic    | Finalisierung und Überprüfung aller Funktionen.                 | 2 Std         |
+| 1.A    | 12.01.2024 | Alle        | Informationssammlung und -austausch über Projektziele.          | 4 Std         |
+| 2.A    | 19.01.2024   | Bajramovic     | Entwicklung der Menü-Logik für die Benutzerführung.             | 2 Std         |
+| 3.A    | 19.01.2024   | Marku  | Implementierung der Funktion zum Hinzufügen von Passwörtern.     | 2 Std         |
+| 4.A    | 19.01.2024   | Jashari | Implementierung der Anzeige für die Passwort Liste.       | 2 Std         |
+| 5.A    | 26.01.2024  | Angelov     | Programmierung der Datenbankintegration zum Speichern von Passwörtern. | 2 Std         |
+| 6.A    | 02.02.2024 | Marku  | Implementierung der Verschlüsselungsfunktionen für mehr Sicherheit. | 2 Std         |
+| 7.A    | 02.02.2024  | Angelov      | Entwickeln der Logik für das Löschen von Einträgen.             | 2 Std         |
+| 8.A    | 02.02.2024 | Jashari     | Implementierung von Fehlerbehandlungsmechanismen.               | 2 Std         |
+| 9.A    | 23.02.2024 | Bajramovic    | Finalisierung und Überprüfung aller Funktionen.                 | 2 Std         |
 
 ## 3 Entscheiden
 
@@ -72,15 +72,15 @@ Wir haben in der Gruppe die Arbeitspakete fair verteilt, sodass wir alle zum Imp
 
 | AP-№ | Datum | Zuständig | Geplante Zeit | Tatsächliche Zeit |
 |------|-------|-----------|---------------|-------------------|
-| 1.A | [Datum 1] | Alle | 240' | 240' |
-| 2.A | [Datum 2] | Bajramovic | 120' | 90' |
-| 3.A | [Datum 3] | Marku | 120' | 60' |
-| 4.A | [Datum 4] | Jashari | 120' | 80' |
-| 5.A | [Datum 5] | Angelov | 120' | 90' |
-| 6.A | [Datum 6] | Marku | 120' | 90' |
-| 7.A | [Datum 7] | Angelov | 120' | 90' |
-| 8.A | [Datum 8] | Jashari | 120' | 80' |
-| 9.A | [Datum 9] | Bajramovic | 120' | 70' |
+| 1.A | 12.01.2024 | Alle | 240' | 240' |
+| 2.A | 19.01.2024  | Bajramovic | 120' | 90' |
+| 3.A | 19.01.2024  | Marku | 120' | 60' |
+| 4.A | 19.01.2024  | Jashari | 120' | 80' |
+| 5.A | 26.01.2024 | Angelov | 120' | 90' |
+| 6.A | 02.02.2024 | Marku | 120' | 90' |
+| 7.A | 02.02.2024 | Angelov | 120' | 90' |
+| 8.A | 02.02.2024 | Jashari | 120' | 80' |
+| 9.A | 23.02.2024 | Bajramovic | 120' | 70' |
 
 ## 5 Kontrollieren
 
