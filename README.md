@@ -48,3 +48,52 @@ Das Ziel dieses Projekts ist die Entwicklung eines einfachen Passwort-Managers, 
 
 ### 1.4 Diagramme
 ![Hauptprogramm 1](https://github.com/denisjashari54/LA1303/assets/112430127/82f61273-bd01-439a-9718-be3ffa20d551)
+
+## 2 Planen
+
+| AP-Nr. | Frist      | Zuständig   | Beschreibung                                                    | Geplante Zeit |
+|--------|------------|-------------|-----------------------------------------------------------------|---------------|
+| 1.A    | [Datum 1]  | Alle        | Informationssammlung und -austausch über Projektziele.          | 4 Std         |
+| 2.A    | [Datum 2]  | Bajramovic     | Entwicklung der Menü-Logik für die Benutzerführung.             | 2 Std         |
+| 3.A    | [Datum 3]  | Marku  | Implementierung der Funktion zum Hinzufügen von Passwörtern.     | 2 Std         |
+| 4.A    | [Datum 4]  | Jashari | Implementierung der Anzeige für die Passwort Liste.       | 2 Std         |
+| 5.A    | [Datum 5]  | Angelov     | Programmierung der Datenbankintegration zum Speichern von Passwörtern. | 2 Std         |
+| 6.A    | [Datum 6]  | Marku  | Implementierung der Verschlüsselungsfunktionen für mehr Sicherheit. | 2 Std         |
+| 7.A    | [Datum 7]  | Angelov      | Entwickeln der Logik für das Löschen von Einträgen.             | 2 Std         |
+| 8.A    | [Datum 8]  | Jashari     | Implementierung von Fehlerbehandlungsmechanismen.               | 2 Std         |
+| 9.A    | [Datum 9]  | Bajramovic    | Finalisierung und Überprüfung aller Funktionen.                 | 2 Std         |
+
+## 3 Entscheiden
+
+
+Wir haben in der Gruppe die Arbeitspakete fair verteilt, sodass wir alle zum Implementieren beitragen. Dadurch haben wir auch eine gute Zeiteinteilung erreicht.
+
+## 4 Realisieren
+
+| AP-№ | Datum | Zuständig | Geplante Zeit | Tatsächliche Zeit |
+|------|-------|-----------|---------------|-------------------|
+| 1.A | [Datum 1] | Alle | 240' | 240' |
+| 2.A | [Datum 2] | Bajramovic | 120' | 90' |
+| 3.A | [Datum 3] | Marku | 120' | 60' |
+| 4.A | [Datum 4] | Jashari | 120' | 80' |
+| 5.A | [Datum 5] | Angelov | 120' | 90' |
+| 6.A | [Datum 6] | Marku | 120' | 90' |
+| 7.A | [Datum 7] | Angelov | 120' | 90' |
+| 8.A | [Datum 8] | Jashari | 120' | 80' |
+| 9.A | [Datum 9] | Bajramovic | 120' | 70' |
+
+## 5 Kontrollieren
+
+### 5.1 Testprotokoll
+
+| TC-№ | Datum      | Resultat | Tester      |
+|------|------------|----------|-------------|
+| TC-1 | 23.02.2024 | OK       | Bajramovic  |
+| TC-2 | 23.02.2024 | OK       | Angelov     |
+| TC-3 | 23.02.2024 | OK       | Marku       |
+| TC-4 | 23.02.2024 | OK       | Jashari     |
+| TC-5 | 23.02.2024 | OK       | Bajramovic  |
+| TC-6 | 23.02.2024 | OK       | Angelov     |
+| TC-7 | 23.02.2024 | OK       | Marku       |
+| TC-8 | 23.02.2024 | OK       | Jashari     |
+| TC-9 | 23.02.2024 | OK       | Bajramovic  |
