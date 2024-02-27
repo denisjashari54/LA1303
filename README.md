@@ -22,24 +22,30 @@ Das Ziel dieses Projekts ist die Entwicklung eines einfachen Passwort-Managers, 
 
 ### 1.2 User Stories
 
-| US-Nr. | Verbindlichkeit | Typ         | Beschreibung                                                                                                                                                       |
-|--------|-----------------|-------------|-----------------------------------------------------|
-| 1      | Muss            | Funktionell | Als Benutzer möchte ich Passwörter zusammen mit der zugehörigen Website und Benutzernamen hinzufügen können, um meine Anmeldedaten sicher zu speichern.    |
-| 2      | Muss            | Funktionell | Als Benutzer möchte ich meine gespeicherten Passwörter einsehen können, um Zugriff auf meine Anmeldedaten zu haben.                                               |
-| 3      | Muss            | Funktionell | Als Benutzer möchte ich Passwörter aus meinem Speicher löschen können, um veraltete oder nicht mehr benötigte Einträge zu entfernen.                              |
-| 4      | Muss            | Funktionell | Als Benutzer möchte ich, dass meine Passwörter verschlüsselt gespeichert werden, um die Sicherheit meiner Daten zu erhöhen.                                   |
-| 5      | Muss            | Funktionell | Als Benutzer möchte ich beim Start des Programms die Wahl haben, ein neues Passwort hinzuzufügen oder vorhandene Passwörter anzusehen.                            |
-| 6      | Muss            | Funktionell | Als Benutzer möchte ich, dass meine Passwörter sicher in einer Datenbank gespeichert werden, um dauerhaften und sicheren Zugriff zu gewährleisten.            |
+| US-Nr. | Verbindlichkeit | Typ         | Beschreibung                                                                                          |
+|--------|-----------------|-------------|-------------------------------------------------------------------------------------------------------|
+| 1      | Muss            | Funktional  | Als Benutzer möchte ich beim Start des Programms wählen können, ob ich Passwörter ansehen oder hinzufügen möchte. |
+| 2      | Muss            | Funktional  | Als Benutzer möchte ich ein Passwort zusammen mit relevanten Informationen (Website, Benutzername) hinzufügen können.  |
+| 2.1      | Muss            | Funktional  | Als Benutzer möchte ich den Namen der Website angeben können, um zu wissen, zu welcher Anwendung das Passwort gehört.  |
+| 2.2      | Muss            | Funktional  | Als Benutzer möchte ich den Benutzernamen eingeben können, um zu wissen, welches Konto betroffen ist.  |
+| 2.3      | Muss            | Funktional  | Als Benutzer möchte ich das Passwort eingeben können, damit es zusammen mit der Website und dem Benutzernamen gespeichert wird. |
+| 3      | Muss            | Funktional  | Als Benutzer möchte ich die Möglichkeit haben, mein Passwort vor der Speicherung zu verschlüsseln, um die Sicherheit meiner Daten zu erhöhen. |
+| 4      | Muss            | Funktional  | Als Benutzer möchte ich, dass alle eingetragenen Daten sicher in einer Datenbank gespeichert werden. |
+| 5      | Muss            | Funktional  | Als Benutzer möchte ich eine Liste aller gespeicherten Passwörter einsehen können, um einen Überblick zu erhalten.  |
+| 6      | Muss            | Funktional  | Als Benutzer möchte ich die Möglichkeit haben, ein gespeichertes Passwort zu löschen, um meine Daten aktuell zu halten. |
+| 7     | Muss            | Funktional  | Als Benutzer möchte ich, dass meine Daten nach dem Beenden des Programms gespeichert bleiben und bei erneutem Start verfügbar sind. |
+| 8     | Kann            | Funktional  | Als Benutzer möchte ich, dass das Programm Fehlermeldungen angemessen behandelt, um die Benutzererfahrung zu verbessern.  |
+| 9     | Kann            | Nicht-Funktional | Als Benutzer erwarte ich eine benutzerfreundliche Oberfläche, die die Nutzung des Programms intuitiv und einfach macht. |
 
 ### 1.3 Testfälle
 
 | TC-Nr. | Ausgangslage                                 | Eingabe                  | Erwartete Ausgabe                                                                                                         |
 |--------|----------------------------------------------|--------------------------|-------------------------------------------------------|
-| 1.1    | Programm gestartet, Hauptmenü wird angezeigt | "1"                      | Weiterleitung zum Hinzufügen-Menü; Aufforderung zur Eingabe des Namens der Website, für die das Passwort gespeiche werden soll: "Website: " |
-| 1.2    | Website-Namen eingegeben                     | [Website-Name]           | Aufforderung zur Eingabe des Benutzernamens: "Username: " |
-| 1.3    | Benutzernamen eingegeben                     | [Benutzername]           | Aufforderung zur Eingabe des Passworts: "Password: "               |
-| 1.4    | Passwort eingegeben                          | [Passwort]               | Aufforderung, ob das Passwort verschlüsselt werden soll: "Do you want to encrypt the password? (y/n): "        |
-| 1.5    | Verschlüsselungsauswahl getroffen            | "y"                      | Bestätigung, dass das Passwort hinzugefügt (und verschlüsselt) wurde; Rückkehr zum Hauptmenü                   |
+| 1.0   | Programm gestartet, Hauptmenü wird angezeigt | "1"                      | Weiterleitung zum Hinzufügen-Menü; Aufforderung zur Eingabe des Namens der Website, für die das Passwort gespeiche werden soll: "Website: " |
+| 2.1    | Website-Namen eingegeben                     | [Website-Name]           | Aufforderung zur Eingabe des Benutzernamens: "Username: " |
+| 2.2    | Benutzernamen eingegeben                     | [Benutzername]           | Aufforderung zur Eingabe des Passworts: "Password: "               |
+| 2.3    | Passwort eingegeben                          | [Passwort]               | Aufforderung, ob das Passwort verschlüsselt werden soll: "Do you want to encrypt the password? (y/n): "        |
+|     | Verschlüsselungsauswahl getroffen            | "y"                      | Bestätigung, dass das Passwort hinzugefügt (und verschlüsselt) wurde; Rückkehr zum Hauptmenü                   |
 | 1.6    | Zurück im Hauptmenü                          | "2"                      | Anzeige aller gespeicherten Passwörter; Frage, ob ein Passwort gelöscht werden soll: "Do you want to delete a password? (y/n): " |
 | 1.7    | Zustimmung zum Löschen eines Passworts       | "y"                      | Aufforderung zur Eingabe der ID des zu löschenden Passworts: "Please enter the ID of the password to be deleted: "     |
 | 1.8    | Eingabe der ID des zu löschenden Passworts   | [ID]                     | Bestätigung, dass das Passwort gelöscht wurde; Frage, ob ein weiteres Passwort gelöscht werden soll: "Do you want to delete another password? (y/n): " |
