@@ -11,7 +11,7 @@ Angel Angelov, Erik Marku, Denis Jashari
 | 19.01.2024  | 0.0.2   | Beginn der Programmierung mit Grundfunktionalitäten                                   |
 | 26.01.2024  | 0.0.3   | Implementierung der Datenbank zur Speicherung der Passwörter                          |
 | 02.02.2024  | 0.0.4   | Implementierung von Verschlüsselungsfunktionen für die sichere Speicherung von Daten  |
-| 23.02.2024  | 0.0.5   | Endgültige Tests und Fertigstellung der Dokumentation                                 |
+| 23.02.2024  | 0.0.5   | Protokol schreiben                       |
 
 ## 1. Informieren
 
@@ -88,7 +88,7 @@ Wir haben in der Gruppe die Arbeitspakete fair verteilt, sodass wir alle zum Imp
 
 | TC-№ | Datum      | Resultat | Tester      |
 |------|------------|----------|-------------|
-| TC-1 | 23.02.2024 | OK       | Bajramovic  |
+| TC-1 | 23.02.2024 | OK       | Team  |
 | TC-2 | 23.02.2024 | OK       | Angelov     |
 | TC-3 | 23.02.2024 | OK       | Marku       |
 | TC-4 | 23.02.2024 | OK       | Jashari     |
