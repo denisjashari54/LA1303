@@ -98,12 +98,15 @@ Wir haben in der Gruppe die Arbeitspakete fair verteilt, sodass wir alle zum Imp
 
 | TC-№ | Datum      | Resultat | Tester      |
 |------|------------|----------|-------------|
-| TC-1 | 23.02.2024 | OK       | Team  |
-| TC-2 | 23.02.2024 | OK       | Angelov     |
-| TC-3 | 23.02.2024 | OK       | Marku       |
-| TC-4 | 23.02.2024 | OK       | Jashari     |
-| TC-5 | 23.02.2024 | OK       | Bajramovic  |
-| TC-6 | 23.02.2024 | OK       | Angelov     |
-| TC-7 | 23.02.2024 | OK       | Marku       |
-| TC-8 | 23.02.2024 | OK       | Jashari     |
-| TC-9 | 23.02.2024 | OK       | Bajramovic  |
+| 1.0  | 23.02.2024 | OK       | Team        |
+| 2.1  | 23.02.2024 | OK       | Angelov     |
+| 2.2  | 23.02.2024 | OK       | Marku       |
+| 2.3  | 23.02.2024 | OK       | Jashari     |
+| 3.0  | 23.02.2024 | OK       | Bajramovic  |
+| 4.0  | 23.02.2024 | OK       | Angelov     |
+| 5.0  | 23.02.2024 | OK       | Marku       |
+| 5.1  | 23.02.2024 | OK       | Jashari     |
+| 5.2  | 23.02.2024 | OK       | Bajramovic  |
+| 6.0  | 23.02.2024 | OK       | Bajramovic  |
+| 7.0  | 23.02.2024 | OK       | Bajramovic  |
+| 8.0  | 23.02.2024 | OK       | Bajramovic  |
