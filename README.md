@@ -30,12 +30,13 @@ Das Ziel dieses Projekts ist die Entwicklung eines einfachen Passwort-Managers, 
 | 2.2      | Muss            | Funktional  | Als Benutzer möchte ich den Benutzernamen eingeben können, um zu wissen, welches Konto betroffen ist.  |
 | 2.3      | Muss            | Funktional  | Als Benutzer möchte ich das Passwort eingeben können, damit es zusammen mit der Website und dem Benutzernamen gespeichert wird. |
 | 3      | Muss            | Funktional  | Als Benutzer möchte ich die Möglichkeit haben, mein Passwort vor der Speicherung zu verschlüsseln, um die Sicherheit meiner Daten zu erhöhen. |
-| 4      | Muss            | Funktional  | Als Benutzer möchte ich, dass alle eingetragenen Daten sicher in einer Datenbank gespeichert werden. |
-| 5      | Muss            | Funktional  | Als Benutzer möchte ich eine Liste aller gespeicherten Passwörter einsehen können, um einen Überblick zu erhalten.  |
-| 6      | Muss            | Funktional  | Als Benutzer möchte ich die Möglichkeit haben, ein gespeichertes Passwort zu löschen, um meine Daten aktuell zu halten. |
+| 4      | Muss            | Funktional  | Als Benutzer möchte ich eine Liste aller gespeicherten Passwörter einsehen können, um einen Überblick zu erhalten.  |
+| 5      | Muss            | Funktional  | Als Benutzer möchte ich die Möglichkeit haben, ein gespeichertes Passwort zu löschen, um meine Daten aktuell zu halten. |
+| 6    | Kann            | Funktional  | Als Benutzer möchte ich, dass das Programm Fehlermeldungen angemessen behandelt, um die Benutzererfahrung zu verbessern.  |
 | 7     | Muss            | Funktional  | Als Benutzer möchte ich, dass meine Daten nach dem Beenden des Programms gespeichert bleiben und bei erneutem Start verfügbar sind. |
-| 8     | Kann            | Funktional  | Als Benutzer möchte ich, dass das Programm Fehlermeldungen angemessen behandelt, um die Benutzererfahrung zu verbessern.  |
-| 9     | Kann            | Nicht-Funktional | Als Benutzer erwarte ich eine benutzerfreundliche Oberfläche, die die Nutzung des Programms intuitiv und einfach macht. |
+| 8    | Muss            | Funktional  | Als Benutzer möchte ich, dass alle eingetragenen Daten sicher in einer Datenbank gespeichert werden. |
+
+| 9     | Kann            | Funktional | Als Benutzer erwarte ich eine benutzerfreundliche Oberfläche, die die Nutzung des Programms intuitiv und einfach macht. |
 
 ### 1.3 Testfälle
 
@@ -45,12 +46,15 @@ Das Ziel dieses Projekts ist die Entwicklung eines einfachen Passwort-Managers, 
 | 2.1    | Website-Namen eingegeben                     | [Website-Name]           | Aufforderung zur Eingabe des Benutzernamens: "Username: " |
 | 2.2    | Benutzernamen eingegeben                     | [Benutzername]           | Aufforderung zur Eingabe des Passworts: "Password: "               |
 | 2.3    | Passwort eingegeben                          | [Passwort]               | Aufforderung, ob das Passwort verschlüsselt werden soll: "Do you want to encrypt the password? (y/n): "        |
-|     | Verschlüsselungsauswahl getroffen            | "y"                      | Bestätigung, dass das Passwort hinzugefügt (und verschlüsselt) wurde; Rückkehr zum Hauptmenü                   |
-| 1.6    | Zurück im Hauptmenü                          | "2"                      | Anzeige aller gespeicherten Passwörter; Frage, ob ein Passwort gelöscht werden soll: "Do you want to delete a password? (y/n): " |
-| 1.7    | Zustimmung zum Löschen eines Passworts       | "y"                      | Aufforderung zur Eingabe der ID des zu löschenden Passworts: "Please enter the ID of the password to be deleted: "     |
-| 1.8    | Eingabe der ID des zu löschenden Passworts   | [ID]                     | Bestätigung, dass das Passwort gelöscht wurde; Frage, ob ein weiteres Passwort gelöscht werden soll: "Do you want to delete another password? (y/n): " |
-| 1.9    | Entscheidung gegen weiteres Löschen          | "n"                      | Rückkehr zum Hauptmenü                                            |
-| 1.10   | Im Hauptmenü                                 | "3"                      | Programm wird geschlossen; keine weiteren Aktionen erforderlich                              |
+| 3.0    | Verschlüsselungsauswahl getroffen            | "y"                      | Bestätigung, dass das Passwort hinzugefügt (und verschlüsselt) wurde; Rückkehr zum Hauptmenü                   |
+| 4.0    | Zurück im Hauptmenü                          | "2"                      | Anzeige aller gespeicherten Passwörter; Frage, ob ein Passwort gelöscht werden soll: "Do you want to delete a password? (y/n): " |
+| 5.0    | Zustimmung zum Löschen eines Passworts       | "y"                      | Aufforderung zur Eingabe der ID des zu löschenden Passworts: "Please enter the ID of the password to be deleted: "     |
+| 5.1    | Eingabe der ID des zu löschenden Passworts   | [ID]                     | Bestätigung, dass das Passwort gelöscht wurde; Frage, ob ein weiteres Passwort gelöscht werden soll: "Do you want to delete another password? (y/n): " |
+| 5.2    | Entscheidung gegen weiteres Löschen          | "n"                      | Rückkehr zum Hauptmenü; Daten                                             |
+| 6.0 | Im Hauptmenü | "4" | Passiert nicht und wartet auf weitere Eingabe. Das Programm reagiert nicht auf eine nicht richtige Eingabe und bleibt im Hauptmenü. |
+| 7.0 | Im Hauptmenü | "3" | Das Programm wird beendet und Daten werden gespeichert. |
+| 8.0 | Programm wieder starten; Im Hauptmenü | "2" | Vorherige gespeicherte Daten werden hervorgehoben. |
+
 
 ### 1.4 Diagramme
 ![Hauptprogramm 1](https://github.com/denisjashari54/LA1303/assets/112430127/82f61273-bd01-439a-9718-be3ffa20d551)
