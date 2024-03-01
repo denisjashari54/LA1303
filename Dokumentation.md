@@ -42,9 +42,8 @@ Das Ziel dieses Projekts ist die Entwicklung eines einfachen Passwort-Managers, 
 |--------|----------------------------------------------|--------------------------|-------------------------------------------------------|
 | 1.0   | Programm gestartet, Hauptmenü wird angezeigt | "1"                      | Weiterleitung zum Hinzufügen-Menü; Aufforderung zur Eingabe des Namens der Website, für die das Passwort gespeichert werden soll: "Website: " |
 | 2.0    | Website-Namen eingegeben                     | [Website-Name]           | Aufforderung zur Eingabe des Benutzernamens: "Username: " |
-| 3.0    | Passwort eingegeben                          | [Passwort]               | Aufforderung, ob das Passwort verschlüsselt werden soll: "Do you want to encrypt the password? (y/n): "        |
-| 4.1    | Verschlüsselungsauswahl treffen (manuell)            | "1"                      | Bestätigung, dass der eigene Passwort gespeichert wurde; Rückkehr zum Hauptmenü                   |
-| 4.2    | Verschlüsselungsauswahl treffen (automatisch)            | "2"                      | Bestätigung, dass das Passwort automatisch verschlüsselt wurde; Rückkehr zum Hauptmenü                   |
+| 3.0    | Passwort eingegeben                          | [Passwort]               | Bestätigung, dass der eigene Passwort gespeichert wurde; Rückkehr zum Hauptmenü        |
+| 4.0    | Verschlüsselungsauswahl getroffen            | "2"                      | Bestätigung, dass das Passwort automatisch verschlüsselt wurde; Rückkehr zum Hauptmenü                   |
 | 5.0    | Zurück im Hauptmenü                          | "2"                      | Liste aller gespeicherten Passwörter anzeigen |
 | 6.0    | Löschen eines Passworts       | "Beliebige ID Nummer"                      | Passwort wurde gelöscht   |
 | 7.0 | Im Hauptmenü | "5" |Es erscheint eine rote Fehlermeldung und man kann daraufhin eine weitere Eingabe machen. |
