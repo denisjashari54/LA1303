@@ -24,19 +24,19 @@ Das Ziel dieses Projekts ist die Entwicklung eines einfachen Passwort-Managers, 
 
 | US-Nr. | Verbindlichkeit | Typ         | Beschreibung                                                                                          |
 |--------|-----------------|-------------|-------------------------------------------------------------------------------------------------------|
-| 1      | Muss            | Funktional  | Als Benutzer möchte ich beim Start des Programms wählen können, ob ich Passwörter ansehen oder hinzufügen möchte. |
+| 1      | Muss            | Funktional  | Als Benutzer möchte ich beim Start des Programms wählen können, ob ich die Passwörter anschauen  oder hinzufügen möchte. |
 | 2      | Muss            | Funktional  | Als Benutzer möchte ich ein Passwort zusammen mit relevanten Informationen (Website, Benutzername) hinzufügen können.  |
-| 2.1      | Muss            | Funktional  | Als Benutzer möchte ich den Namen der Website angeben können, um zu wissen, zu welcher Anwendung das Passwort gehört.  |
-| 2.2      | Muss            | Funktional  | Als Benutzer möchte ich den Benutzernamen eingeben können, um zu wissen, welches Konto betroffen ist.  |
-| 2.3      | Muss            | Funktional  | Als Benutzer möchte ich das Passwort eingeben können, damit es zusammen mit der Website und dem Benutzernamen gespeichert wird. |
-| 3      | Muss            | Funktional  | Als Benutzer möchte ich die Möglichkeit haben, mein Passwort vor der Speicherung zu verschlüsseln, um die Sicherheit meiner Daten zu erhöhen. |
-| 4      | Muss            | Funktional  | Als Benutzer möchte ich eine Liste aller gespeicherten Passwörter einsehen können, um einen Überblick zu erhalten.  |
-| 5      | Muss            | Funktional  | Als Benutzer möchte ich die Möglichkeit haben, ein gespeichertes Passwort zu löschen, um meine Daten aktuell zu halten. |
-| 6    | Kann            | Funktional  | Als Benutzer möchte ich, dass das Programm Fehlermeldungen angemessen behandelt, um die Benutzererfahrung zu verbessern.  |
-| 7     | Muss            | Funktional  | Als Benutzer möchte ich, dass meine Daten nach dem Beenden des Programms gespeichert bleiben und bei erneutem Start verfügbar sind. |
-| 8    | Muss            | Funktional  | Als Benutzer möchte ich, dass alle eingetragenen Daten sicher in einer Datenbank gespeichert werden. |
+| 3      | Muss            | Funktional  | Als Benutzer möchte ich den Namen der Website angeben können, um zu wissen, zu welcher Anwendung das Passwort gehört.  |
+| 4      | Muss            | Funktional  | Als Benutzer möchte ich den Benutzernamen eingeben können, um zu wissen, welches Konto betroffen ist.  |
+| 5      | Muss            | Funktional  | Als Benutzer möchte ich das Passwort eingeben können, damit es zusammen mit der Website und dem Benutzernamen gespeichert wird. |
+| 6      | Muss            | Funktional  | Als Benutzer möchte ich die Möglichkeit haben, mein Passwort vor der Speicherung zu verschlüsseln, um die Sicherheit meiner Daten zu erhöhen. |
+| 7      | Muss            | Funktional  | Als Benutzer möchte ich eine Liste aller gespeicherten Passwörter einsehen können, um einen Überblick zu erhalten.  |
+| 8      | Muss            | Funktional  | Als Benutzer möchte ich die Möglichkeit haben, ein gespeichertes Passwort zu löschen, um meine Daten aktuell zu halten. |
+| 9      | Kann            | Funktional  | Als Benutzer möchte ich, dass das Programm Fehlermeldungen angemessen behandelt, um die Benutzererfahrung zu verbessern.  |
+| 10     | Muss            | Funktional  | Als Benutzer möchte ich, dass meine Daten nach dem Beenden des Programms gespeichert bleiben und bei erneutem Start verfügbar sind. |
+| 11     | Muss            | Funktional  | Als Benutzer möchte ich, dass alle eingetragenen Daten sicher in einer Datenbank gespeichert werden. |
+| 12     | Kann            | Funktional  | Als Benutzer erwarte ich eine benutzerfreundliche Oberfläche, die die Nutzung des Programms intuitiv und einfach macht. |
 
-| 9     | Kann            | Funktional | Als Benutzer erwarte ich eine benutzerfreundliche Oberfläche, die die Nutzung des Programms intuitiv und einfach macht. |
 
 ### 1.3 Testfälle
 
