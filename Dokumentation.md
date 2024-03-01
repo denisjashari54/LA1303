@@ -30,7 +30,7 @@ Das Ziel dieses Projekts ist die Entwicklung eines einfachen Passwort-Managers, 
 | 4      | Muss            | Funktional  | Als Benutzer möchte ich die Möglichkeit haben, mein Passwort vor der Speicherung zu verschlüsseln, um die Sicherheit meiner Daten zu erhöhen. |
 | 5      | Muss            | Funktional  | Als Benutzer möchte ich eine Liste aller gespeicherten Passwörter einsehen können, um einen Überblick zu erhalten.  |
 | 6      | Muss            | Funktional  | Als Benutzer möchte ich die Möglichkeit haben, ein gespeichertes Passwort zu löschen, um meine Daten aktuell zu halten. |
-| 7      | Kann            | Funktional  | Als Benutzer möchte ich, dass das Programm Fehlermeldungen angemessen behandelt, um die Benutzererfahrung zu verbessern.  |
+| 7      | Muss            | Funktional  | Als Benutzer möchte ich, dass das Programm Fehlermeldungen angemessen behandelt, um die Benutzererfahrung zu verbessern.  |
 | 8     | Muss            | Funktional  | Als Benutzer möchte ich, dass meine Daten nach dem Beenden des Programms gespeichert bleiben und bei erneutem Start verfügbar sind. |
 | 9     | Kann            | Funktional  | Als Benutzer erwarte ich eine benutzerfreundliche Oberfläche, die die Nutzung des Programms intuitiv und einfach macht. |
 
