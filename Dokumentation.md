@@ -115,6 +115,8 @@ Wir haben uns entschieden, eng in der Gruppe zusammenzuarbeiten und viel Pairpro
 | 5.0  | 23.02.2024 | OK       | Marku       |
 | 5.1  | 23.02.2024 | OK       | Jashari     |
 | 5.2  | 23.02.2024 | OK       | Bajramovic  |
-| 6.0  | 23.02.2024 | OK       | Bajramovic  |
-| 7.0  | 23.02.2024 | OK       | Bajramovic  |
-| 8.0  | 23.02.2024 | OK       | Bajramovic  |
+| 6.0  | 23.02.2024 | OK       | Angelov     |
+| 7.0  | 23.02.2024 | OK       | Marku       |
+| 8.0  | 23.02.2024 | OK       | Jashari     |
+| 9.0  | 23.02.2024 | OK       | Bajramovic  |
+| 10.0  | 23.02.2024| OK       | Angelov     |
