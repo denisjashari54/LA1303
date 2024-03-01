@@ -93,7 +93,7 @@ Wir haben uns für eine enge Zusammenarbeit im Team entschieden und setzten häu
 | 4.A | 19.01.2024  |  Marku, Angelov, Jashari | 60' | 10' |
 | 5.A | 26.01.2024 |  Marku, Angelov, Jashari| 60' | 10' |
 | 6.A | 02.02.2024 | Angelov, Marku, Jashari | 120' |180' |
-| 7.A | 02.02.2024 | Angelov | 120' | 90' |
+| 7.A | 02.02.2024 | Angelov, Marku, Jashari | 120' | 90' |
 | 8.A | 02.02.2024 | Jashari, Marku | 120' | 120' |
 | 9.A | 23.02.2024 | Jashari, Marku | 120' | 140' |
 | 10.A | 23.02.2024 | Jashari | 120' | 80' |
