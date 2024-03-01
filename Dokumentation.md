@@ -81,7 +81,7 @@ Das Ziel dieses Projekts ist die Entwicklung eines einfachen Passwort-Managers, 
 
 ## 3 Entscheiden
 
-Wir haben uns entschieden, eng in der Gruppe zusammenzuarbeiten und viel Pairprogramming zu machen, um voneinander zu profitieren.
+Wir haben uns für eine enge Zusammenarbeit im Team entschieden und setzten häufig auf Pair-Programming, um voneinander zu lernen. Dadurch arbeiteten wir eng zusammen und erledigten gemeinsam die geplanten Pakete, selbst wenn diese ursprünglich jemand anderem zugewiesen waren, unterstützten wir einander.
 
 ## 4 Realisieren
 
