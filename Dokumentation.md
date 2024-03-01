@@ -33,26 +33,27 @@ Das Ziel dieses Projekts ist die Entwicklung eines einfachen Passwort-Managers, 
 | 7      | Muss            | Funktional  | Als Benutzer möchte ich die Möglichkeit haben, ein gespeichertes Passwort zu löschen, um meine Daten aktuell zu halten. |
 | 8      | Kann            | Funktional  | Als Benutzer möchte ich, dass das Programm Fehlermeldungen angemessen behandelt, um die Benutzererfahrung zu verbessern.  |
 | 9     | Muss            | Funktional  | Als Benutzer möchte ich, dass meine Daten nach dem Beenden des Programms gespeichert bleiben und bei erneutem Start verfügbar sind. |
-| 10     | Muss            | Funktional  | Als Benutzer möchte ich, dass alle eingetragenen Daten sicher in einer Datenbank gespeichert werden. |
-| 11     | Kann            | Funktional  | Als Benutzer erwarte ich eine benutzerfreundliche Oberfläche, die die Nutzung des Programms intuitiv und einfach macht. |
+| 10     | Kann            | Funktional  | Als Benutzer erwarte ich eine benutzerfreundliche Oberfläche, die die Nutzung des Programms intuitiv und einfach macht. |
+
 
 
 ### 1.3 Testfälle
 
 | TC-Nr. | Ausgangslage                                 | Eingabe                  | Erwartete Ausgabe                                                                                                         |
 |--------|----------------------------------------------|--------------------------|-------------------------------------------------------|
-| 1.0   | Programm gestartet, Hauptmenü wird angezeigt | "1"                      | Weiterleitung zum Hinzufügen-Menü; Aufforderung zur Eingabe des Namens der Website, für die das Passwort gespeiche werden soll: "Website: " |
-| 2.1    | Website-Namen eingegeben                     | [Website-Name]           | Aufforderung zur Eingabe des Benutzernamens: "Username: " |
-| 2.2    | Benutzernamen eingegeben                     | [Benutzername]           | Aufforderung zur Eingabe des Passworts: "Password: "               |
-| 2.3    | Passwort eingegeben                          | [Passwort]               | Aufforderung, ob das Passwort verschlüsselt werden soll: "Do you want to encrypt the password? (y/n): "        |
-| 3.0    | Verschlüsselungsauswahl getroffen            | "y"                      | Bestätigung, dass das Passwort hinzugefügt (und verschlüsselt) wurde; Rückkehr zum Hauptmenü                   |
-| 4.0    | Zurück im Hauptmenü                          | "2"                      | Anzeige aller gespeicherten Passwörter; Frage, ob ein Passwort gelöscht werden soll: "Do you want to delete a password? (y/n): " |
-| 5.0    | Zustimmung zum Löschen eines Passworts       | "y"                      | Aufforderung zur Eingabe der ID des zu löschenden Passworts: "Please enter the ID of the password to be deleted: "     |
-| 5.1    | Eingabe der ID des zu löschenden Passworts   | [ID]                     | Bestätigung, dass das Passwort gelöscht wurde; Frage, ob ein weiteres Passwort gelöscht werden soll: "Do you want to delete another password? (y/n): " |
-| 5.2    | Entscheidung gegen weiteres Löschen          | "n"                      | Rückkehr zum Hauptmenü; Daten                                             |
-| 6.0 | Im Hauptmenü | "4" | Passiert nicht und wartet auf weitere Eingabe. Das Programm reagiert nicht auf eine nicht richtige Eingabe und bleibt im Hauptmenü. |
-| 7.0 | Im Hauptmenü | "3" | Das Programm wird beendet und Daten werden gespeichert. |
-| 8.0 | Programm wieder starten; Im Hauptmenü | "2" | Vorherige gespeicherte Daten werden hervorgehoben. |
+| 1.0   | Programm gestartet, Hauptmenü wird angezeigt | "1"                      | Weiterleitung zum Hinzufügen-Menü; Aufforderung zur Eingabe des Namens der Website, für die das Passwort gespeichert werden soll: "Website: " |
+| 2.0    | Website-Namen eingegeben                     | [Website-Name]           | Aufforderung zur Eingabe des Benutzernamens: "Username: " |
+| 3.0    | Benutzernamen eingegeben                     | [Benutzername]           | Aufforderung zur Eingabe des Passworts: "Password: "               |
+| 4.0    | Passwort eingegeben                          | [Passwort]               | Aufforderung, ob das Passwort verschlüsselt werden soll: "Do you want to encrypt the password? (y/n): "        |
+| 5.0    | Verschlüsselungsauswahl getroffen            | "y"                      | Bestätigung, dass das Passwort hinzugefügt (und verschlüsselt) wurde; Rückkehr zum Hauptmenü                   |
+| 6.0    | Zurück im Hauptmenü                          | "2"                      | Anzeige aller gespeicherten Passwörter; Frage, ob ein Passwort gelöscht werden soll: "Do you want to delete a password? (y/n): " |
+| 7.0    | Zustimmung zum Löschen eines Passworts       | "y"                      | Aufforderung zur Eingabe der ID des zu löschenden Passworts: "Please enter the ID of the password to be deleted: "     |
+| 7.1    | Eingabe der ID des zu löschenden Passworts   | [ID]                     | Bestätigung, dass das Passwort gelöscht wurde; Frage, ob ein weiteres Passwort gelöscht werden soll: "Do you want to delete another password? (y/n): " |
+| 7.2    | Entscheidung gegen weiteres Löschen          | "n"                      | Rückkehr zum Hauptmenü; Daten                                           |
+| 8.0 | Im Hauptmenü | "4" | Passiert nichts und wartet auf weitere Eingabe. Das Programm reagiert nicht auf eine nicht richtige Eingabe und bleibt im Hauptmenü. |
+| 9.0 | Im Hauptmenü | "3" | Das Programm wird beendet und Daten werden gespeichert. |
+| 10.0 | Programm wieder starten; im Hauptmenü | "2" | Vorherige gespeicherte Daten werden hervorgehoben. |
+
 
 
 ### 1.4 Diagramme
