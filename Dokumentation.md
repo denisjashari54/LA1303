@@ -50,7 +50,7 @@ Das Ziel dieses Projekts ist die Entwicklung eines einfachen Passwort-Managers, 
 | 7.0    | Zustimmung zum Löschen eines Passworts       | "y"                      | Aufforderung zur Eingabe der ID des zu löschenden Passworts: "Please enter the ID of the password to be deleted: "     |
 | 7.1    | Eingabe der ID des zu löschenden Passworts   | [ID]                     | Bestätigung, dass das Passwort gelöscht wurde; Frage, ob ein weiteres Passwort gelöscht werden soll: "Do you want to delete another password? (y/n): " |
 | 7.2    | Entscheidung gegen weiteres Löschen          | "n"                      | Rückkehr zum Hauptmenü; Daten                                           |
-| 8.0 | Im Hauptmenü | "4" | Passiert nichts und wartet auf weitere Eingabe. Das Programm reagiert nicht auf eine nicht richtige Eingabe und bleibt im Hauptmenü. |
+| 8.0 | Im Hauptmenü | "4" |Es erscheint eine rote Fehlermeldung, und man kann daraufhin eine weitere Eingabe machen. |
 | 9.0 | Im Hauptmenü | "3" | Das Programm wird beendet und Daten werden gespeichert. |
 | 10.0 | Programm wieder starten; im Hauptmenü | "2" | Vorherige gespeicherte Daten werden hervorgehoben. |
 
