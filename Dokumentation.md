@@ -1,17 +1,17 @@
 # Dokumentation LA1303
 ## Passwort-Manager-Projekt 
 
-Angel Angelov, Erik Marku, Denis Jashari
+Angelov, Bajramovic, Jashari, Marku
 
 
 
 | Datum      | Version | Zusammenfassung                                                                       |
 |------------|---------|---------------------------------------------------------------------------------------|
-| 12.01.2024 | 0.0.1   | Projektinitiierung und erste Diskussion über Verschlüsselungsmethoden                 |
-| 19.01.2024  | 0.0.2   | Beginn der Programmierung mit Grundfunktionalitäten                                   |
-| 26.01.2024  | 0.0.3   | Implementierung der Datenbank zur Speicherung der Passwörter                          |
-| 02.02.2024  | 0.0.4   | Implementierung von Verschlüsselungsfunktionen für die sichere Speicherung von Daten  |
-| 23.02.2024  | 0.0.5   | Protokol schreiben                       |
+| 12.01.2024  | 0.0.1   | Projektinitiierung und erste Diskussion über Verschlüsselungsmethoden.                 |
+| 19.01.2024  | 0.0.2   | Beginn der Programmierung mit Grundfunktionalitäten.                                   |
+| 26.01.2024  | 0.0.3   | Implementierung der Datenbank zur Speicherung der Passwörter.                          |
+| 02.02.2024  | 0.0.4   | Implementierung von Verschlüsselungsfunktionen für die sichere Speicherung von Daten. |
+| 23.02.2024  | 0.0.5   | Die letzten Feinschliffe werden dem Projekt gegeben und der Portfolioeintrag wird geschrieben.                   |
 
 ## 1. Informieren
 
