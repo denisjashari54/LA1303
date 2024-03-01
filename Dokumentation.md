@@ -63,18 +63,18 @@ Das Ziel dieses Projekts ist die Entwicklung eines einfachen Passwort-Managers, 
 
 | AP-Nr. | Frist      | Zuständig   | Beschreibung                                                    | Geplante Zeit |
 |--------|------------|-------------|-----------------------------------------------------------------|---------------|
-| 1.A    | 12.01.2024 | Alle        | Informationssammlung und -austausch über Projektziele.          | 4 Std         |
-| 2.A    | 19.01.2024   | Bajramovic     | Entwicklung der Menü-Logik für die Benutzerführung.             | 2 Std         |
-| 3.A    | 19.01.2024   | Marku  | Implementierung der Funktion zum Hinzufügen von der Website.     | 1 Std         |
-| 4.A    | 19.01.2024   | Marku  | Implementierung der Funktion zum Hinzufügen von dem Benutzernamen.     | 1 Std         |
-| 5.A    | 19.01.2024   | Marku  | Implementierung der Funktion zum Hinzufügen von Passwörtern.     | 1 Std         |
-| 6.A    | 19.01.2024   | Angelov, Marku | Implementierung der Funktion zur Verschlüsselung des Passworts vor der Speicherung, um die Sicherheit der Daten zu erhöhen.       | 2 Std         |
-| 7.A    | 26.01.2024  | Angelov     | Programmierung der Datenbankintegration zum Speichern von Passwörtern. | 2 Std         |
-| 8.A    | 19.01.2024   | Jashari | Implementierung der Anzeige für die Passwortliste.       | 2 Std         |
-| 9.A    | 02.02.2024  | Angelov      | Entwickeln der Logik für das Löschen von Einträgen.             | 2 Std         |
-| 10.A    | 02.02.2024 | Jashari     | Implementierung von Fehlerbehandlungsmechanismen.               | 2 Std         |
-| 11.A    | 23.02.2024 | Bajramovic    | Finalisierung, Verschönerung und Überprüfung aller Funktionen.                 | 2 Std         |    |
-| 12.A    | 23.02.2024 | Alle    | Portfolioeintrag Schreiben.                 | 3 Std         |
+| 1.A    | 12.01.2024 | Alle        | Informationssammlung und -austausch über Projektziele.          | 240'|
+| 2.A    | 19.01.2024   | Bajramovic     | Entwicklung der Menü-Logik für die Benutzerführung.             | 120'       |
+| 3.A    | 19.01.2024   | Marku  | Implementierung der Funktion zum Hinzufügen von der Website.     | 60'         |
+| 4.A    | 19.01.2024   | Marku  | Implementierung der Funktion zum Hinzufügen von dem Benutzernamen.     | 60'         |
+| 5.A    | 19.01.2024   | Marku  | Implementierung der Funktion zum Hinzufügen von Passwörtern.     | 60'         |
+| 6.A    | 19.01.2024   | Angelov, Marku | Implementierung der Funktion zur Verschlüsselung des Passworts vor der Speicherung, um die Sicherheit der Daten zu erhöhen.       | 120'        |
+| 7.A    | 26.01.2024  | Angelov     | Programmierung der Datenbankintegration zum Speichern von Passwörtern. | 120'          |
+| 8.A    | 19.01.2024   | Jashari | Implementierung der Anzeige für die Passwortliste.       | 120'           |
+| 9.A    | 02.02.2024  | Angelov      | Entwickeln der Logik für das Löschen von Einträgen.             | 120'          |
+| 10.A    | 02.02.2024 | Jashari     | Implementierung von Fehlerbehandlungsmechanismen.               | 120'          |
+| 11.A    | 23.02.2024 | Bajramovic    | Finalisierung, Verschönerung und Überprüfung aller Funktionen.                 | 120'          |    |
+| 12.A    | 23.02.2024 | Alle    | Portfolioeintrag Schreiben.                 | 180'          |
 
 
 
