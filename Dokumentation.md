@@ -101,16 +101,14 @@ Wir haben uns für eine enge Zusammenarbeit im Team entschieden und setzten häu
 | TC-№ | Datum      | Resultat | Tester      |
 |------|------------|----------|-------------|
 | 1.0  | 23.02.2024 | OK       | Team        |
-| 2.1  | 23.02.2024 | OK       | Angelov     |
-| 2.2  | 23.02.2024 | OK       | Marku       |
-| 2.3  | 23.02.2024 | OK       | Jashari     |
+| 2.0  | 23.02.2024 | OK       | Angelov     |
 | 3.0  | 23.02.2024 | OK       | Bajramovic  |
-| 4.0  | 23.02.2024 | OK       | Angelov     |
-| 5.0  | 23.02.2024 | OK       | Marku       |
-| 5.1  | 23.02.2024 | OK       | Jashari     |
+| 4.0  | 23.02.2024 | OK       | Marku     |
+| 5.0  | 23.02.2024 | OK       | Jashari       |
+| 5.1  | 23.02.2024 | OK       | Angelov     |
 | 5.2  | 23.02.2024 | OK       | Bajramovic  |
-| 6.0  | 23.02.2024 | OK       | Angelov     |
-| 7.0  | 23.02.2024 | OK       | Marku       |
-| 8.0  | 23.02.2024 | OK       | Jashari     |
+| 6.0  | 23.02.2024 | OK       | Marku     |
+| 7.0  | 23.02.2024 | OK       | Jashari       |
+| 8.0  | 23.02.2024 | OK       | Angelov     |
 | 9.0  | 23.02.2024 | OK       | Bajramovic  |
-| 10.0  | 23.02.2024| OK       | Angelov     |
+| 10.0  | 23.02.2024| OK       | Marku     |
