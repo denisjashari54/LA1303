@@ -62,14 +62,14 @@ Das Ziel dieses Projekts ist die Entwicklung eines einfachen Passwort-Managers, 
 | 1.A    | 12.01.2024 | Alle        | Informationssammlung und -austausch über Projektziele.          | 240'|
 | 2.A    | 19.01.2024   | Bajramovic     | Entwicklung der Menü-Logik für die Benutzerführung.             | 120'       |
 | 3.A    | 19.01.2024   | Marku  | Implementierung der Funktion zum Hinzufügen von der Website.     | 60'         |
-| 5.A    | 19.01.2024   | Marku  | Implementierung der Funktion zum Hinzufügen von Passwörtern.     | 60'         |
-| 6.A    | 19.01.2024   | Angelov | Implementierung der Funktion zur Verschlüsselung des Passworts vor der Speicherung, um die Sicherheit der Daten zu erhöhen.       | 120'        |
-| 7.A    | 26.01.2024  | Angelov     | Programmierung der Datenbankintegration zum Speichern von Passwörtern. | 120'          |
-| 8.A    | 19.01.2024   | Jashari | Implementierung der Anzeige für die Passwortliste.       | 120'           |
-| 9.A    | 02.02.2024  | Jashari      | Entwickeln der Logik für das Löschen von Einträgen.             | 120'          |
-| 10.A    | 02.02.2024 | Jashari     | Implementierung von Fehlerbehandlungsmechanismen.               | 120'          |
-| 11.A    | 23.02.2024 | Bajramovic    | Finalisierung, Verschönerung und Überprüfung aller Funktionen.                 | 120'          |    |
-| 12.A    | 23.02.2024 | Alle    | Portfolioeintrag Schreiben.                 | 180'          |
+| 4.A    | 19.01.2024   | Marku  | Implementierung der Funktion zum Hinzufügen von Passwörtern.     | 60'         |
+| 5.A    | 19.01.2024   | Angelov | Implementierung der Funktion zur Verschlüsselung des Passworts vor der Speicherung, um die Sicherheit der Daten zu erhöhen.       | 120'        |
+| 6.A    | 26.01.2024  | Angelov     | Programmierung der Datenbankintegration zum Speichern von Passwörtern. | 120'          |
+| 7.A    | 19.01.2024   | Jashari | Implementierung der Anzeige für die Passwortliste.       | 120'           |
+| 8.A    | 02.02.2024  | Jashari      | Entwickeln der Logik für das Löschen von Einträgen.             | 120'          |
+| 9.A    | 02.02.2024 | Jashari     | Implementierung von Fehlerbehandlungsmechanismen.               | 120'          |
+| 10.A    | 23.02.2024 | Bajramovic    | Finalisierung, Verschönerung und Überprüfung aller Funktionen.                 | 120'          |    |
+| 11.A    | 23.02.2024 | Alle    | Portfolioeintrag Schreiben.                 | 180'          |
 
 
 
