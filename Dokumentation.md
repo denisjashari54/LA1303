@@ -43,14 +43,13 @@ Das Ziel dieses Projekts ist die Entwicklung eines einfachen Passwort-Managers, 
 | 1.0   | Programm gestartet, Hauptmenü wird angezeigt | "1"                      | Weiterleitung zum Hinzufügen-Menü; Aufforderung zur Eingabe des Namens der Website, für die das Passwort gespeichert werden soll: "Website: " |
 | 2.0    | Website-Namen eingegeben                     | [Website-Name]           | Aufforderung zur Eingabe des Benutzernamens: "Username: " |
 | 3.0    | Passwort eingegeben                          | [Passwort]               | Aufforderung, ob das Passwort verschlüsselt werden soll: "Do you want to encrypt the password? (y/n): "        |
-| 4.0    | Verschlüsselungsauswahl getroffen            | "y"                      | Bestätigung, dass das Passwort hinzugefügt (oder verschlüsselt) wurde; Rückkehr zum Hauptmenü                   |
-| 5.0    | Zurück im Hauptmenü                          | "2"                      | Anzeige aller gespeicherten Passwörter; Frage, ob ein Passwort gelöscht werden soll: "Do you want to delete a password? (y/n): " |
-| 6.0    | Zustimmung zum Löschen eines Passworts       | "y"                      | Aufforderung zur Eingabe der ID des zu löschenden Passworts: "Please enter the ID of the password to be deleted: "     |
-| 7.1    | Eingabe der ID des zu löschenden Passworts   | [ID]                     | Bestätigung, dass das Passwort gelöscht wurde; Frage, ob ein weiteres Passwort gelöscht werden soll: "Do you want to delete another password? (y/n): " |
-| 7.2    | Entscheidung gegen weiteres Löschen          | "n"                      | Rückkehr zum Hauptmenü; Daten                                           |
-| 8.0 | Im Hauptmenü | "4" |Es erscheint eine rote Fehlermeldung, und man kann daraufhin eine weitere Eingabe machen. |
-| 9.0 | Im Hauptmenü | "3" | Das Programm wird beendet und Daten werden gespeichert. |
-| 10.0 | Programm wieder starten; im Hauptmenü | "2" | Vorherige gespeicherte Daten werden hervorgehoben. |
+| 4.1    | Verschlüsselungsauswahl treffen (manuell)            | "1"                      | Bestätigung, dass der eigene Passwort gespeichert wurde; Rückkehr zum Hauptmenü                   |
+| 4.2    | Verschlüsselungsauswahl treffen (automatisch)            | "2"                      | Bestätigung, dass das Passwort automatisch verschlüsselt wurde; Rückkehr zum Hauptmenü                   |
+| 5.0    | Zurück im Hauptmenü                          | "2"                      | Liste aller gespeicherten Passwörter anzeigen |
+| 6.0    | Löschen eines Passworts       | "Beliebige ID Nummer"                      | Passwort wurde gelöscht   |
+| 7.0 | Im Hauptmenü | "5" |Es erscheint eine rote Fehlermeldung und man kann daraufhin eine weitere Eingabe machen. |
+| 8.0 | Im Hauptmenü | "4" | Das Programm wird beendet und Daten werden gespeichert. |
+| 9.0 | Programm wieder starten; im Hauptmenü | "2" | Vorherige gespeicherte Daten werden hervorgehoben. |
 
 
 
