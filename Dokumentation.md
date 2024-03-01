@@ -68,7 +68,7 @@ Das Ziel dieses Projekts ist die Entwicklung eines einfachen Passwort-Managers, 
 | 3.A    | 19.01.2024   | Marku  | Implementierung der Funktion zum Hinzufügen von der Website.     | 1 Std         |
 | 4.A    | 19.01.2024   | Marku  | Implementierung der Funktion zum Hinzufügen von dem Benutzernamen.     | 1 Std         |
 | 5.A    | 19.01.2024   | Marku  | Implementierung der Funktion zum Hinzufügen von Passwörtern.     | 1 Std         |
-| 6.A    | 19.01.2024   | Jashari | Implementierung der Funktion zur Verschlüsselung des Passworts vor der Speicherung, um die Sicherheit der Daten zu erhöhen.       | 2 Std         |
+| 6.A    | 19.01.2024   | Angelov, Marku | Implementierung der Funktion zur Verschlüsselung des Passworts vor der Speicherung, um die Sicherheit der Daten zu erhöhen.       | 2 Std         |
 | 7.A    | 26.01.2024  | Angelov     | Programmierung der Datenbankintegration zum Speichern von Passwörtern. | 2 Std         |
 | 8.A    | 19.01.2024   | Jashari | Implementierung der Anzeige für die Passwortliste.       | 2 Std         |
 | 9.A    | 02.02.2024  | Angelov      | Entwickeln der Logik für das Löschen von Einträgen.             | 2 Std         |
@@ -81,8 +81,7 @@ Das Ziel dieses Projekts ist die Entwicklung eines einfachen Passwort-Managers, 
 
 ## 3 Entscheiden
 
-
-Wir haben in der Gruppe die Arbeitspakete fair verteilt, sodass wir alle zum Implementieren beitragen. Dadurch haben wir auch eine gute Zeiteinteilung erreicht.
+Wir haben uns entschieden, eng in der Gruppe zusammenzuarbeiten und viel Pairprogramming zu machen, um voneinander zu profitieren.
 
 ## 4 Realisieren
 
@@ -90,13 +89,16 @@ Wir haben in der Gruppe die Arbeitspakete fair verteilt, sodass wir alle zum Imp
 |------|-------|-----------|---------------|-------------------|
 | 1.A | 12.01.2024 | Alle | 240' | 240' |
 | 2.A | 19.01.2024  | Bajramovic | 120' | 90' |
-| 3.A | 19.01.2024  | Marku | 120' | 60' |
-| 4.A | 19.01.2024  | Jashari | 120' | 80' |
-| 5.A | 26.01.2024 | Angelov | 120' | 90' |
-| 6.A | 02.02.2024 | Marku | 120' | 90' |
+| 3.A | 19.01.2024  | Marku | 60' | 80' |
+| 4.A | 19.01.2024  | Marku | 60' | 10' |
+| 5.A | 26.01.2024 | Marku| 60' | 10' |
+| 6.A | 02.02.2024 | Angelov, Marku | 120' |180' |
 | 7.A | 02.02.2024 | Angelov | 120' | 90' |
-| 8.A | 02.02.2024 | Jashari | 120' | 80' |
-| 9.A | 23.02.2024 | Bajramovic | 120' | 70' |
+| 8.A | 02.02.2024 | Jashari | 120' | 120' |
+| 9.A | 23.02.2024 | Angelov | 120' | 140' |
+| 10.A | 23.02.2024 | Jashari | 120' | 80' |
+| 11.A | 23.02.2024 | Bajramovic | 120' | 90' |
+| 12.A | 23.02.2024 | Alle | 180' | 150' |
 
 ## 5 Kontrollieren
 
