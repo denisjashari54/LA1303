@@ -89,13 +89,13 @@ Wir haben uns entschieden, eng in der Gruppe zusammenzuarbeiten und viel Pairpro
 |------|-------|-----------|---------------|-------------------|
 | 1.A | 12.01.2024 | Alle | 240' | 240' |
 | 2.A | 19.01.2024  | Bajramovic | 120' | 90' |
-| 3.A | 19.01.2024  | Marku | 60' | 80' |
-| 4.A | 19.01.2024  | Marku | 60' | 10' |
-| 5.A | 26.01.2024 | Marku| 60' | 10' |
-| 6.A | 02.02.2024 | Angelov | 120' |180' |
+| 3.A | 19.01.2024  | Marku, Angelov, Jashari | 60' | 80' |
+| 4.A | 19.01.2024  |  Marku, Angelov, Jashari | 60' | 10' |
+| 5.A | 26.01.2024 |  Marku, Angelov, Jashari| 60' | 10' |
+| 6.A | 02.02.2024 | Angelov, Marku, Jashari | 120' |180' |
 | 7.A | 02.02.2024 | Angelov | 120' | 90' |
-| 8.A | 02.02.2024 | Jashari | 120' | 120' |
-| 9.A | 23.02.2024 | Jashari | 120' | 140' |
+| 8.A | 02.02.2024 | Jashari, Marku | 120' | 120' |
+| 9.A | 23.02.2024 | Jashari, Marku | 120' | 140' |
 | 10.A | 23.02.2024 | Jashari | 120' | 80' |
 | 11.A | 23.02.2024 | Bajramovic | 120' | 90' |
 | 12.A | 23.02.2024 | Alle | 180' | 150' |
